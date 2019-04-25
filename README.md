@@ -36,4 +36,4 @@ The annotation file formate should be like follow:
 ```
 ## Note
 
-I am sorry for that I forgot some repositories some codes came from, pls make a pull request if someone knows. Thank u.
+I am sorry for that I forgot some repositories which some codes came from, pls make a pull request if you knows. Thank u.
